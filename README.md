@@ -1,5 +1,5 @@
 # MobileCourse-BallLanucher-Repository
-Repository of the Unity C# Mobile Game Development Course. First game, Ball Launcher <br/>
+Repository of the Unity C# Mobile Game Development Course. 1st game our of 3 - **Ball Launcher** <br/>
 
 **About:** <br />
 This is a course that teaches you the fundamentals of creating different types of mobile game. <br />
